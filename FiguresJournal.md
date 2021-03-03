@@ -38,3 +38,6 @@ The authors also reported the main effects of Trial (which time they tested the 
 My first objective was to remake their bar charts as boxplots that show the raw data as points.
 ![latency](Images/latency.png)
 ![distance](Images/distance.png)
+
+
+I saw a lot of spread in the data, so I thought it would be good to look at the confidence estimates around their model output. I didn't ever manage to successfully recreate their exact model output. And I really just wanted to focus on the main effect of infection group (which I refer to as Treatment group, because that makes more sense to me). This was the only variable that was significant in their model, so I just made a model testing the effect of treatment group on the latency time, and included toad ID as a random effect. 
