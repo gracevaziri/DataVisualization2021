@@ -20,3 +20,13 @@ I don't think this is a bad figure, but I think it missed an easy opportunity to
 ![sparrow gene expression figure](Images/SeasideSparrow2020_lo.jpg)
 
 The first thing I like about this figure is that the data are split into two panels which indicate differential expression in fold change for each pathway (left panel) and proportion of differentially expressed genes in each pathway (on the right). The canonical pathways are ordered vertically so that the data for each pathway can be easily assessed for both types of data. The two lines on the right panel use colors and differnt horizontal axes to indicate which statistic they represent. Both statistics are important, and often this type of data would be presented in a table, but the authors made a cool choice to graph these data. Not only are they easy to interpret, and prettier than a table, but they are much more easily connected to the panel on the left, which improved my understanding of how the authors interpreted their data and reached their conclusions! 
+
+
+## 3 March 2021
+This week we talked about displaying uncertainty. I would have preferred to show a uncertainty in model predictions, but I haven't landed on the best way to do that, so I'll show what I got to, and explain how I got there. 
+
+I worked on a small subset of data in the paper "The costs of parasite infection: Effects of removing lungworms on performance, growth and survival of free-ranging cane toads" by Finnerty et al., 2018, in [Functional Ecology](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2435.12992).
+
+The authors studied the effects of infection with the nematode *Rhabdias pseudospaerocepha* on invasive cane toads in Australia. Part of their study looked at the combined effects of nematode infection and treatment with anthelmintic drugs on toad latency (how readily it would leave a hiding place) and activity (how much ground it covered in a given time). They referred to these measurements as "Time to head out(min)" and "Spontaneous activity", respectively. 
+
+They reported means and standard errors for these measures with bar charts, which doesn't allow for us to see the spread of their data. 
