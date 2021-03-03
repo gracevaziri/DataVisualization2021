@@ -30,3 +30,4 @@ I worked on a small subset of data in the paper "The costs of parasite infection
 The authors studied the effects of infection with the nematode *Rhabdias pseudospaerocepha* on invasive cane toads in Australia. Part of their study looked at the combined effects of nematode infection and treatment with anthelmintic drugs on toad latency (how readily it would leave a hiding place) and activity (how much ground it covered in a given time). They referred to these measurements as "Time to head out(min)" and "Spontaneous activity", respectively. 
 
 They reported means and standard errors for these measures with bar charts, which doesn't allow for us to see the spread of their data. 
+![canetoad activity figure](Images/Finnertyetal2018.png)
