@@ -31,3 +31,8 @@ The authors studied the effects of infection with the nematode *Rhabdias pseudos
 
 They reported means and standard errors for these measures with bar charts, which doesn't allow for us to see the spread of their data. 
 ![canetoad activity figure](Images/Finnertyetal2018.png)
+
+
+The authors also reported the main effects of Trial (which time they tested the toads), Infection group (the treatment combination of infection/control + drug/control for each toad), and the interaction between these effects. The authors did not include parameter estimates or confidence intervals for these calculations. Though there was a strong effect of infection group (P = 0.02), we only have bar charts to inform how the effect manifests among different treatment groups. 
+
+My first objective was to remake their bar charts as boxplots that show the raw data as points.
