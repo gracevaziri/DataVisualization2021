@@ -4,9 +4,9 @@ The authors used blood and liver to look at gene transcription profiles and foun
 
 Here's their graph.
 
-![WatsonHeatmap]("Images/Screen Shot 2021-04-06 at 9.34.19 PM.png")
+![WatsonHeatmap](Images/Screen Shot 2021-04-06 at 9.34.19 PM.png)
 
-
+![frog_fig](Images/frog_ecomorph.jpg)wat
 
 
 
