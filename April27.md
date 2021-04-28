@@ -4,4 +4,4 @@ This is useful beacause the results of differential gene expression analysis can
 
 Below is an image of a chord plot I liked from the PNAS paper 'RNA-seq reveals conservation of function among the yolk sacs of human, mouse, and chicken' by Tereza Cindrova-Davies, Eric Jauniaux, Michael G. Elliot, Sungsam Gong, Graham J. Burton, and Stephen Charnock-Jones.
 
-![chordplot](Images/chordplot.png)
+![chordplot](/Images/ChordPlot.png)
